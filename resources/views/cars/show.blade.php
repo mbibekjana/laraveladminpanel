@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel car view<?php echo $car->name ;?></div>
+                <div class="title">Laravel car view<?php echo $car->name ;bibekkkkkkkkkkkkkkk?></div>
             </div>
         </div>
     </body>
